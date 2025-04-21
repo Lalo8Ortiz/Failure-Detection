@@ -1,7 +1,6 @@
 # Failure-Detection
 In this file you can find projects that apply machine learning to detect errors (using data frames from official websites).
 # 🛠️ Predictive Maintenance: Machine Failure Detection Using Sensor Data
-# 🛠️ Predictive Maintenance: Machine Failure Detection Using Sensor Data
 
 This project focuses on building a machine learning model to **predict industrial machine failures** based on multivariate sensor readings. By leveraging supervised learning techniques, we aim to detect early warning signs of failure and support smarter maintenance decisions.
 
